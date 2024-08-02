@@ -3,7 +3,7 @@
 This project is structured into three main components:<br>
 - **Database Generator**: Contains the code to analyze the blockchain and identify address clusters and store all the relationships between addresses within a database.<br>
 - **Server API**: Provides the API endpoints for accessing clustering data in the database.<br>
-- **Web Client**: A React application that consumes the API to visualize data inside a graph.<br>
+- **Web Client**: A React application that consumes the API to visualize data inside a graph. The [3D Force-Directed Graph](https://github.com/vasturiano/3d-force-graph) web component is used to visualize the cluster graph.<br>
 ***
 ## Homepage
 The Homepage presents the tool with a short description, detailing the heuristics used in constructing clusters.<br>
