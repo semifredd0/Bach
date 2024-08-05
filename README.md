@@ -9,7 +9,7 @@ This project is structured into three main components:<br>
 The Homepage presents the tool with a short description, detailing the heuristics used in constructing clusters.<br>
 At the bottom of the page, there are examples of discovered clusters.
 <p align="center">
-<kbd><img src="https://raw.githubusercontent.com/semifredd0/BACH-tool/master/.github/images/Home.PNG" width="800"/></kbd>
+<kbd><img src="https://raw.githubusercontent.com/semifredd0/Bach/master/.github/images/gui0.png" width="800"/></kbd>
 </p>
 
 ## Display cluster graph
@@ -17,13 +17,13 @@ In the NavBar you can paste a Bitcoin address to view the cluster to which it be
 This page lists all addresses within the same cluster and shows its 3D graph.<br>
 The red node identifies the searched address.
 <p align="center">
-<kbd><img src="https://raw.githubusercontent.com/semifredd0/BACH-tool/master/.github/images/Graph.PNG" width="800"/></kbd>
+<kbd><img src="https://raw.githubusercontent.com/semifredd0/Bach/master/.github/images/gui1.png" width="800"/></kbd>
 </p>
 
 ## Display links of an address
 By clicking on a node within the graph, you can see all its links to other addresses in the cluster in detail, along with the types of links.
 <p align="center">
-<kbd><img src="https://raw.githubusercontent.com/semifredd0/BACH-tool/master/.github/images/Links.PNG" width="800"/></kbd>
+<kbd><img src="https://raw.githubusercontent.com/semifredd0/Bach/master/.github/images/gui2.png" width="800"/></kbd>
 </p>
 
 ***
