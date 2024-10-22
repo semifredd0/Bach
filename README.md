@@ -5,6 +5,34 @@ This project is structured into three main components:<br>
 - **Server API**: Provides the API endpoints for accessing clustering data in the database.<br>
 - **Web Client**: A React application that consumes the API to visualize data inside a graph. The [3D Force-Directed Graph](https://github.com/vasturiano/3d-force-graph) web component is used to visualize the cluster graph.<br>
 ***
+
+## Please cite this work
+If you use this software, please cite it. Thank you :)
+
+[Click here to view the paper (Open Access)](https://www.mdpi.com/2078-2489/15/10/589 "View the paper (Open Access)")
+
+- MLA
+> Caringella, Michele, et al. "BACH: A Tool for Analyzing Blockchain Transactions Using Address Clustering Heuristics." Information 15.10 (2024): 589.
+
+- APA
+> Caringella, M., Violante, F., De Lucci, F., Galantucci, S., & Costantini, M. (2024). BACH: A Tool for Analyzing Blockchain Transactions Using Address Clustering Heuristics. Information, 15(10), 589.
+
+- ISO 690
+>CARINGELLA, Michele, et al. BACH: A Tool for Analyzing Blockchain Transactions Using Address Clustering Heuristics. Information, 2024, 15.10: 589.
+
+- BibTex:
+> @article{caringella2024bach,
+  title={BACH: A Tool for Analyzing Blockchain Transactions Using Address Clustering Heuristics},
+  author={Caringella, Michele and Violante, Francesco and De Lucci, Francesco and Galantucci, Stefano and Costantini, Matteo},
+  journal={Information},
+  volume={15},
+  number={10},
+  pages={589},
+  year={2024},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+***
+
 ## Homepage
 The Homepage presents the tool with a short description, detailing the heuristics used in constructing clusters.<br>
 At the bottom of the page, there are examples of discovered clusters.
